@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmls		="http://www.w3.org/ns/widgets"
+		xmlns:gap	= "http:// phonegap.com/ns/1.0"
+		id			= "com.tugaskelomok5.tematik2  "
+		versioncode	="1"
+		version	="1.0.0">
+		
+		
+	<name> SD Tematik Hidup Bersih dan Sehat 			</name>
+	<description>Kelompok 5 Ferri Aprizal , Muhammad Syaifullah , Harvianto Agung</description>
+	<author href ="tugaskelompok5" email= "rizzalag@gmail.com">
+	Neil Rowe
+	</author>
+	<plugin name="com.candygram.media" spec="0.0.3" source="pgb" />
+	</widget>
+
+	
+		
