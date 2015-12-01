@@ -6,10 +6,10 @@
         id        = "com.ferri.tugas"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Tematik Hidup Bersih Dan Sehat</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+       Kelompok 5 ( Ferri Aprizal, Muhammad Syaifullah, Harvianto Agung)
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
