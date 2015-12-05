@@ -1580,7 +1580,7 @@ learning tasks."></unicode>
                        <dictionary></dictionary>
                        <string role="key" value="content_w_resourcePaths"></string>
                        <unicode content="true" value="&lt;p&gt;&lt;iframe width=&quot;320&quot; height=&quot;240&quot; autostart=&quot;false&quot; src=&quot;https://www.youtube.com/embed/jtdE5MQi8vA&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;video width=&quot;320&quot; height=&quot;240&quot; class=&quot;mediaelement&quot; autoplay=&quot;autoplay&quot; src=&quot;resources/Aku_Mah_Apa_Atuh_-_Nella_Kharisma_-_Lagista_Live_Kediri_2015_pandumusica.net.ogg&quot; controls=&quot;controls&quot;&gt;&lt;a href=&quot;resources/Aku_Mah_Apa_Atuh_-_Nella_Kharisma_-_Lagista_Live_Kediri_2015_pandumusica.net.ogg&quot;&gt;Aku Mah Apa Atuh - Nella Kharisma - Lagista Live Kediri 2015 pandumusica.net.ogg&lt;/a&gt;&lt;/video&gt;&lt;/p&gt;"></unicode>
+&lt;p&gt;&lt;audio width=&quot;300&quot; height=&quot;32&quot; class=&quot;mediaelement&quot; autoplay=&quot;autoplay&quot; src=&quot;resources/Aku_Mah_Apa_Atuh_-_Nella_Kharisma_-_Lagista_Live_Kediri_2015_pandumusica.net.ogg&quot; controls=&quot;controls&quot;&gt;&lt;a href=&quot;resources/Aku_Mah_Apa_Atuh_-_Nella_Kharisma_-_Lagista_Live_Kediri_2015_pandumusica.net.ogg&quot;&gt;Aku Mah Apa Atuh - Nella Kharisma - Lagista Live Kediri 2015 pandumusica.net.ogg&lt;/a&gt;&lt;/audio&gt;&lt;/p&gt;"></unicode>
                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                        <int value="3"></int>
                        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1600,7 +1600,7 @@ learning tasks."></unicode>
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="621"></int>
+                              <int value="623"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1614,7 +1614,7 @@ learning tasks."></unicode>
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="17_51_2.24"></unicode>
+                            <unicode value="17_51_2.26"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="41">
                              <dictionary>
@@ -1650,7 +1650,7 @@ learning tasks."></unicode>
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="622"></int>
+                              <int value="624"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1664,7 +1664,7 @@ learning tasks."></unicode>
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="17_51_2.25"></unicode>
+                            <unicode value="17_51_2.27"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="42">
                              <dictionary>
@@ -1702,7 +1702,7 @@ learning tasks."></unicode>
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="26"></int>
+                       <int value="28"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="40"></reference>
                       </dictionary>
